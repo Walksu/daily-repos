@@ -12,9 +12,63 @@
 
 ## 最新 · Latest
 
-还没有条目。下一次入库会把当天放在这里，并写进年份文件。
+## 2026-10-04
 
-No entries yet. The next filing will sit here, and in the year file.
+- [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)
+  - 中文：砍 LOC 的懒写出，对照 caveman 砍嘴，不并成同一层。
+  - English: A lazy-writing pass that cuts lines of code, set against caveman cutting talk, and not folded into the same layer.
+
+- [affaan-m/ECC](https://github.com/affaan-m/ECC)
+  - 中文：harness 回潮，今天只钉一条可复现指标，不堆配方。
+  - English: Harness interest is back; today only one reproducible metric is pinned, not a stack of recipes.
+
+- [vectorize-io/hindsight](https://github.com/vectorize-io/hindsight)
+  - 中文：retain/recall/reflect 三分的可学习记忆。
+  - English: Learnable memory split into retain, recall, and reflect.
+
+- [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem)
+  - 中文：跨会话记忆要先索引再拉全文。
+  - English: Cross-session memory should index first, then pull the full text.
+
+- [cloudflare/cloudflare-os](https://github.com/cloudflare/cloudflare-os)
+  - 中文：官方 Workers 上的 Agent 工作区，验收点是同仓交付不是 Chat UI。
+  - English: Official agent workspace on Workers; the bar is same-repo delivery, not a chat UI.
+
+- [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills)
+  - 中文：可钉版本的工程 Skills 样板，不是 awesome 十连。
+  - English: Version-pinnable engineering skill templates, not an awesome-list streak.
+
+- [paperclipai/paperclip](https://github.com/paperclipai/paperclip)
+  - 中文：多 agent 控制面，不是方法结论；issues 噪音大。
+  - English: A multi-agent control plane, not a method result; the issues are noisy.
+
+- [mksglu/context-mode](https://github.com/mksglu/context-mode)
+  - 中文：沙箱化工具回灌，钉读入侧噪声。
+  - English: Sandboxed tool output fed back in, pinning noise on the read side.
+
+- [Effect-TS/effect](https://github.com/Effect-TS/effect)
+  - 中文：TS 生产栈的可组合副作用，和工具边界同构。
+  - English: Composable effects for a production TypeScript stack, isomorphic to tool boundaries.
+
+- [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut)
+  - 中文：开源剪辑，验收点是时间线能否文件化。
+  - English: Open-source editing; the bar is whether the timeline can be filed as files.
+
+- [facebookincubator/muse-gadget-sdk](https://github.com/facebookincubator/muse-gadget-sdk)
+  - 中文：官方可装的 Muse gadget SDK，Apache-2.0，★828。好友家庭画像是媒体，不并进这仓。
+  - English: Official installable Muse gadget SDK, Apache-2.0, ★828. Friend and family profiles are media and stay out of this repo.
+
+- [Aleph-Alpha/aleph-alpha-inference](https://github.com/Aleph-Alpha/aleph-alpha-inference)
+  - 中文：Kolibri 官方推理仓，★13。权重在 HF，0 星个人移植不收。
+  - English: Official Kolibri inference repo, ★13. Weights live on Hugging Face; zero-star personal ports are not filed.
+
+- [pi-pod/pipod](https://github.com/pi-pod/pipod)
+  - 中文：自托管远程沙箱跑 pi，★35。不升方法，也不并进 pi 本仓。
+  - English: Self-hosted remote sandbox for running pi, ★35. Not promoted to a method, and not merged into the pi repo.
+
+- [BootLoops-ai/bootloops](https://github.com/BootLoops-ai/bootloops)
+  - 中文：科学计算工具给 agent 调用，★204。不并 ECC。
+  - English: Scientific-computing tools for agents to call, ★204. Not merged into ECC.
 
 ## 关于 · About
 
