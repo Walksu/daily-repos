@@ -12,63 +12,63 @@
 
 ## 最新 · Latest
 
-## 2026-10-04
+## 2026-10-05
 
-- [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)
-  - 中文：砍 LOC 的懒写出，对照 caveman 砍嘴，不并成同一层。
-  - English: A lazy-writing pass that cuts lines of code, set against caveman cutting talk, and not folded into the same layer.
+- [tester-army/e2e](https://github.com/tester-army/e2e)
+  - 中文：agent 驱动 e2e，断言通过后录制、零模型回放。
+  - English: Agent-driven e2e: record after assertions pass, then replay with zero model calls.
 
-- [affaan-m/ECC](https://github.com/affaan-m/ECC)
-  - 中文：harness 回潮，今天只钉一条可复现指标，不堆配方。
-  - English: Harness interest is back; today only one reproducible metric is pinned, not a stack of recipes.
+- [pingdotgg/t3code](https://github.com/pingdotgg/t3code)
+  - 中文：统一遥控本机多家 agent CLI 的控制面（不并 paperclip）。
+  - English: A control plane that remotes many local agent CLIs (not merged with paperclip).
 
-- [vectorize-io/hindsight](https://github.com/vectorize-io/hindsight)
-  - 中文：retain/recall/reflect 三分的可学习记忆。
-  - English: Learnable memory split into retain, recall, and reflect.
+- [garrytan/gstack](https://github.com/garrytan/gstack)
+  - 中文：角色化 Claude Code skill 套件样本（生产力数字是自报）。
+  - English: A role-based Claude Code skill suite sample (productivity numbers are self-reported).
 
-- [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem)
-  - 中文：跨会话记忆要先索引再拉全文。
-  - English: Cross-session memory should index first, then pull the full text.
+- [zai-org/ZCode](https://github.com/zai-org/ZCode)
+  - 中文：Z.ai 官方开源编程 harness，可读运行时结构。
+  - English: Z.ai's official open coding harness with a readable runtime structure.
 
-- [cloudflare/cloudflare-os](https://github.com/cloudflare/cloudflare-os)
-  - 中文：官方 Workers 上的 Agent 工作区，验收点是同仓交付不是 Chat UI。
-  - English: Official agent workspace on Workers; the bar is same-repo delivery, not a chat UI.
+- [browser-use/jev-ultrafast](https://github.com/browser-use/jev-ultrafast)
+  - 中文：缩小动作空间的快浏览器 agent（依赖托管 API）。
+  - English: A fast browser agent with a shrunk action space (depends on a hosted API).
 
-- [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills)
-  - 中文：可钉版本的工程 Skills 样板，不是 awesome 十连。
-  - English: Version-pinnable engineering skill templates, not an awesome-list streak.
+- [antirez/ds4](https://github.com/antirez/ds4)
+  - 中文：antirez 的窄而深本地推理引擎，带 agent 与评测。
+  - English: antirez's narrow-and-deep local inference engine, with agents and evals.
 
-- [paperclipai/paperclip](https://github.com/paperclipai/paperclip)
-  - 中文：多 agent 控制面，不是方法结论；issues 噪音大。
-  - English: A multi-agent control plane, not a method result; the issues are noisy.
+- [earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad)
+  - 中文：出可制造 CAD 文件的 Skills 库（AIGC·3D）。
+  - English: A Skills library that emits manufacturable CAD files (AIGC·3D).
 
-- [mksglu/context-mode](https://github.com/mksglu/context-mode)
-  - 中文：沙箱化工具回灌，钉读入侧噪声。
-  - English: Sandboxed tool output fed back in, pinning noise on the read side.
+- [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage)
+  - 中文：先选管线再调工具的视频 agent（AIGC·视频）。
+  - English: A video agent that picks the pipeline first, then tools (AIGC·video).
 
-- [Effect-TS/effect](https://github.com/Effect-TS/effect)
-  - 中文：TS 生产栈的可组合副作用，和工具边界同构。
-  - English: Composable effects for a production TypeScript stack, isomorphic to tool boundaries.
+- [microsoft/thinkingbox](https://github.com/microsoft/thinkingbox)
+  - 中文：按后端终态判分的 agent 评测框架（不并 e2e，不并 IBM 过程级评测，不并 Raven）。
+  - English: An agent eval framework scored on backend final state (not e2e, not IBM process-level eval, not Raven).
 
-- [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut)
-  - 中文：开源剪辑，验收点是时间线能否文件化。
-  - English: Open-source editing; the bar is whether the timeline can be filed as files.
+- [microsoft/thinkingbox-data](https://github.com/microsoft/thinkingbox-data)
+  - 中文：ThinkingBox 的场景和工具服务数据，许可证不是标准 SPDX。
+  - English: ThinkingBox scenario and tool-service data; the license is not standard SPDX.
 
-- [facebookincubator/muse-gadget-sdk](https://github.com/facebookincubator/muse-gadget-sdk)
-  - 中文：官方可装的 Muse gadget SDK，Apache-2.0，★828。好友家庭画像是媒体，不并进这仓。
-  - English: Official installable Muse gadget SDK, Apache-2.0, ★828. Friend and family profiles are media and stay out of this repo.
+- [huggingface/OpenEnv · thinkingbox_env](https://github.com/huggingface/OpenEnv/tree/main/envs/thinkingbox_env)
+  - 中文：跑 ThinkingBox 的环境，不把整个 OpenEnv 当新方法。
+  - English: The env that runs ThinkingBox—do not treat all of OpenEnv as a new method.
 
-- [Aleph-Alpha/aleph-alpha-inference](https://github.com/Aleph-Alpha/aleph-alpha-inference)
-  - 中文：Kolibri 官方推理仓，★13。权重在 HF，0 星个人移植不收。
-  - English: Official Kolibri inference repo, ★13. Weights live on Hugging Face; zero-star personal ports are not filed.
+- [google-research/rrsi](https://github.com/google-research/rrsi)
+  - 中文：自改进时防背测试的可装对照（论文数字归 Mira，不闭合自进化）。
+  - English: An installable control against backtesting during self-improvement (paper numbers belong to Mira; it does not close self-evolution).
 
-- [pi-pod/pipod](https://github.com/pi-pod/pipod)
-  - 中文：自托管远程沙箱跑 pi，★35。不升方法，也不并进 pi 本仓。
-  - English: Self-hosted remote sandbox for running pi, ★35. Not promoted to a method, and not merged into the pi repo.
+- [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)
+  - 中文：DeepSeek 官方插件式 harness（不并 ZCode，内部组件仓不单收）。
+  - English: DeepSeek's official plugin-style harness (not ZCode; internal component repos are not filed alone).
 
-- [BootLoops-ai/bootloops](https://github.com/BootLoops-ai/bootloops)
-  - 中文：科学计算工具给 agent 调用，★204。不并 ECC。
-  - English: Scientific-computing tools for agents to call, ★204. Not merged into ECC.
+- [Niko1221/Strata](https://github.com/Niko1221/Strata)
+  - 中文：消费级卡上的本地推理引擎（不并 ds4）。
+  - English: A local inference engine for consumer GPUs (not merged with ds4).
 
 ## 关于 · About
 
