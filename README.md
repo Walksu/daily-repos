@@ -12,6 +12,33 @@
 
 ## 最新 · Latest
 
+## 2026-10-08
+
+- [ghuntley/jiti](https://github.com/ghuntley/jiti)
+  - 中文：在运行中的 Lisp 应用里靠对话加函数，检查交还给调用方（★56，新仓，慎读）
+  - English: Add functions to a running Lisp app through conversation, with checks handed back to the caller (★56, new repo, read with care).
+
+- [lambda-symbolics/autolith](https://github.com/lambda-symbolics/autolith)
+  - 中文：会改自己的 agent，每次改动生成一代镜像，可以回滚
+  - English: A self-modifying agent where each change produces a new image generation you can roll back.
+
+- [usestrix/strix](https://github.com/usestrix/strix)
+  - 中文：多 agent 渗透测试，每个发现附 PoC；只测自己的或有授权的目标
+  - English: Multi-agent penetration testing with a PoC for every finding; test only your own or authorized targets.
+
+- [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux)
+  - 中文：同时跑多个 coding agent 的 macOS 终端；许可证 GitHub 识别不出，用前先看 LICENSE
+  - English: A macOS terminal for running many coding agents at once; GitHub cannot detect the license, so read LICENSE first.
+
+- [FeSens/openTPU](https://github.com/FeSens/openTPU)
+  - 中文：agent 开发的开源加速器，硬件输出和模拟器逐 token 一致
+  - English: An agent-built open-source accelerator whose hardware output matches the simulator token for token.
+
+- [NVIDIA/aicr](https://github.com/NVIDIA/aicr)
+  - 中文：集群配置锁成固定版本，验证结果能离线核对
+  - English: Locks cluster configuration to pinned versions, with verification results checkable offline.
+
+
 ## 2026-10-07
 
 - [morluto/rea](https://github.com/morluto/rea)
@@ -50,64 +77,6 @@
   - 中文：动画 skill：能写代码的部分用代码，人物才用生成帧（AIGC·动画）
   - English: Animation skill: use code where possible; generative frames only for characters (AIGC·animation).
 
-
-## 2026-10-05
-
-- [tester-army/e2e](https://github.com/tester-army/e2e)
-  - 中文：agent 驱动 e2e，断言通过后录制、零模型回放。
-  - English: Agent-driven e2e: record after assertions pass, then replay with zero model calls.
-
-- [pingdotgg/t3code](https://github.com/pingdotgg/t3code)
-  - 中文：统一遥控本机多家 agent CLI 的控制面（不并 paperclip）。
-  - English: A control plane that remotes many local agent CLIs (not merged with paperclip).
-
-- [garrytan/gstack](https://github.com/garrytan/gstack)
-  - 中文：角色化 Claude Code skill 套件样本（生产力数字是自报）。
-  - English: A role-based Claude Code skill suite sample (productivity numbers are self-reported).
-
-- [zai-org/ZCode](https://github.com/zai-org/ZCode)
-  - 中文：Z.ai 官方开源编程 harness，可读运行时结构。
-  - English: Z.ai's official open coding harness with a readable runtime structure.
-
-- [browser-use/jev-ultrafast](https://github.com/browser-use/jev-ultrafast)
-  - 中文：缩小动作空间的快浏览器 agent（依赖托管 API）。
-  - English: A fast browser agent with a shrunk action space (depends on a hosted API).
-
-- [antirez/ds4](https://github.com/antirez/ds4)
-  - 中文：antirez 的窄而深本地推理引擎，带 agent 与评测。
-  - English: antirez's narrow-and-deep local inference engine, with agents and evals.
-
-- [earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad)
-  - 中文：出可制造 CAD 文件的 Skills 库（AIGC·3D）。
-  - English: A Skills library that emits manufacturable CAD files (AIGC·3D).
-
-- [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage)
-  - 中文：先选管线再调工具的视频 agent（AIGC·视频）。
-  - English: A video agent that picks the pipeline first, then tools (AIGC·video).
-
-- [microsoft/thinkingbox](https://github.com/microsoft/thinkingbox)
-  - 中文：按后端终态判分的 agent 评测框架（不并 e2e，不并 IBM 过程级评测，不并 Raven）。
-  - English: An agent eval framework scored on backend final state (not e2e, not IBM process-level eval, not Raven).
-
-- [microsoft/thinkingbox-data](https://github.com/microsoft/thinkingbox-data)
-  - 中文：ThinkingBox 的场景和工具服务数据，许可证不是标准 SPDX。
-  - English: ThinkingBox scenario and tool-service data; the license is not standard SPDX.
-
-- [huggingface/OpenEnv · thinkingbox_env](https://github.com/huggingface/OpenEnv/tree/main/envs/thinkingbox_env)
-  - 中文：跑 ThinkingBox 的环境，不把整个 OpenEnv 当新方法。
-  - English: The env that runs ThinkingBox—do not treat all of OpenEnv as a new method.
-
-- [google-research/rrsi](https://github.com/google-research/rrsi)
-  - 中文：自改进时防背测试的可装对照（论文数字归 Mira，不闭合自进化）。
-  - English: An installable control against backtesting during self-improvement (paper numbers belong to Mira; it does not close self-evolution).
-
-- [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)
-  - 中文：DeepSeek 官方插件式 harness（不并 ZCode，内部组件仓不单收）。
-  - English: DeepSeek's official plugin-style harness (not ZCode; internal component repos are not filed alone).
-
-- [Niko1221/Strata](https://github.com/Niko1221/Strata)
-  - 中文：消费级卡上的本地推理引擎（不并 ds4）。
-  - English: A local inference engine for consumer GPUs (not merged with ds4).
 
 ## 关于 · About
 
