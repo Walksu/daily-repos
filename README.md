@@ -12,6 +12,45 @@
 
 ## 最新 · Latest
 
+## 2026-10-07
+
+- [morluto/rea](https://github.com/morluto/rea)
+  - 中文：缺证据记 unknown、不算通过；重建检查把证据、限制、未知分开交回
+  - English: Missing evidence is unknown and does not pass; reconstruction checks return evidence, limits, and unknowns separately.
+
+- [AgentMemoryRepo/agentmemoryrepo](https://github.com/AgentMemoryRepo/agentmemoryrepo)
+  - 中文：Cognition 的 Agent Memory Repo 规范：git 管记忆，每条带 source（不并 claude-mem）
+  - English: Cognition's Agent Memory Repo spec: git-managed memory with a source on each entry (not merged with claude-mem).
+
+- [elstongun/leviathan](https://github.com/elstongun/leviathan)
+  - 中文：大数据集检索记忆；比每问 token 和最坏情况，组名不清就退出码 3
+  - English: Retrieval memory for large datasets; compare per-query tokens and worst case; unclear group names exit with code 3.
+
+- [StayLameBro/backburner](https://github.com/StayLameBro/backburner)
+  - 中文：iPhone 帮 Mac 跑本地 27B；验收是贪心输出逐 token 一致
+  - English: iPhone helps a Mac run a local 27B; acceptance is greedy output matching token-by-token.
+
+- [QingYunA/answer-me-with-html](https://github.com/QingYunA/answer-me-with-html)
+  - 中文：模型只写内容、skill 渲染 HTML；自报重配置下省钱有限
+  - English: The model writes content only; a skill renders HTML—self-reported savings under reconfiguration are limited.
+
+- [storytold/photocraft](https://github.com/storytold/photocraft)
+  - 中文：命令表统一供 CLI/JSON/MCP；自称 early alpha，不当成熟产品
+  - English: One command table for CLI/JSON/MCP; self-described early alpha, not a mature product.
+
+- [OpSafari/hypoarena](https://github.com/OpSafari/hypoarena)
+  - 中文：先用埋答案数据验证评测流水线本身（个人项目，不当基准）
+  - English: Validate the eval pipeline itself on planted-answer data first (personal project, not a benchmark).
+
+- [deepseek-ai/DeepGEMM](https://github.com/deepseek-ai/DeepGEMM)
+  - 中文：张量核实现；训练侧判断归 Mira
+  - English: A tensor-core implementation; training-side judgment belongs to Mira.
+
+- [alchaincyf/huashu-art-motion](https://github.com/alchaincyf/huashu-art-motion)
+  - 中文：动画 skill：能写代码的部分用代码，人物才用生成帧（AIGC·动画）
+  - English: Animation skill: use code where possible; generative frames only for characters (AIGC·animation).
+
+
 ## 2026-10-05
 
 - [tester-army/e2e](https://github.com/tester-army/e2e)
